@@ -1,0 +1,8 @@
+Flask
+langchain
+langchain-community
+psycopg2-binary
+python-dotenv
+sqlalchemy
+ollama
+easyocr

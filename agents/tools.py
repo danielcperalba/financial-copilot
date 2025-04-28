@@ -1,0 +1,1 @@
+# Funções de registrar gasto, consultar gastos, monitorar fundos

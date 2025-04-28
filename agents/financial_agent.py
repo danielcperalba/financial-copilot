@@ -17,7 +17,7 @@ def main():
 
     llm = ChatOpenAI(
         openai_api_key=openai_api_key,
-        model="gpt-4",
+        model="gpt-4o",
     )
 
     st.set_page_config(page_title="Ask your CSV")
